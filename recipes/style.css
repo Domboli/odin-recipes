@@ -18,3 +18,16 @@ h1 {
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
+
+
+/* This be where ya do the rice n' beans */
+
+.ricebeans-image {
+    width: 500px;
+    height: auto;
+}
+
+#ricebeans-body {
+    color: gold;
+    background-color: black;
+}
