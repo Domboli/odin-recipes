@@ -1,0 +1,31 @@
+h1 {
+    color: teal;
+    background-color: purple;
+    font-family: 'Gill Sans', sans-serif;
+    text-align: center;
+}
+
+ul {
+    background-color: purple;
+    font-weight: bold;
+}
+
+li {
+    color: teal;
+}
+
+a {
+    color: teal;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+ div {
+    background-color: purple;
+ }
+
+ body {
+    background-color: teal;
+ }

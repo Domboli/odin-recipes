@@ -1,0 +1,20 @@
+h1 {
+    font-family: "Franklin Gothic Medium", sans-serif;
+}
+
+.meatimage {
+    width: 500px;
+    height: auto;
+}
+
+.meatlist{
+    font-family: Impact, sans-serif;
+    background-color:forestgreen;
+    color: gold;
+}
+
+.meat-list-start {
+    background-color: forestgreen;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
